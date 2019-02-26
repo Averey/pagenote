@@ -1,5 +1,5 @@
 
-renderH3();
+// renderH3();
 
 
 function renderH3() {
@@ -9,3 +9,21 @@ function renderH3() {
     
   }
 }
+
+function sideBar() {
+
+  
+}
+
+// data structure
+// map
+// { 
+//   site1: {
+//    title1: ["contentlist"]
+//   },
+//   site2: {
+//    title2: ["contentlist"]
+//   }
+//
+// }
+
